@@ -1,0 +1,7 @@
+Who developed Python Programming Language?,a) Wick van Rossum,b) Rasmus Lerdorf,c) Guido van Rossum,d) Niene Stom
+Which type of Programming does Python support?,a) object-oriented programming,b) structured programming,c) functional programming,d) all of the mentioned
+All keywords in Python are in _________,a) Capitalized,b) lower case,c) UPPER CASE,d) None of the mentioned
+What will be the value of the following Python expression?,4 + 3 % 5,a) 7,b) 2,c) 4,d) 1
+Which of the following is used to define a block of code in Python language?,a) Indentation,b) Key,c) Brackets,d) All of the mentioned,
+Which keyword is used for function in Python language?,a) Function,b) def,c) Fun,d) Define,
+Which of the following character is used to give single-line comments in Python?,a) //,b) #,c) !,d) /*

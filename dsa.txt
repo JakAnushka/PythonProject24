@@ -1,0 +1,7 @@
+Which of the following sorting algorithms can be used to sort a random linked list with minimum time complexity?,a)Insertion Sort,b)Quick Sort,c)Heap Sort,d)Merge Sort
+Which one of the following is an application of Stack Data Structure?,a)Managing function calls,b)The stock span problem,c)Arithmetic expression evaluation,d)All of the above
+The minimum number of stacks needed to implement a queue is,a)3,b)1,c)2,d)4
+The size of the array should always be _____,a)Positive,b)Negative,c)whole Number,d)Real Number
+Which of these operators can be used to concatenate two or more String objects?,a)"+",b)"+=",c)"&",d)None of these
+What advantage does a linked list have over an array?,a)A linked list is not of a fixed size,b)It's better,c)It is easier to use,d)A linked list can give you the data faster
+Nodes in a linked list contain two things: ,a)A pointer and a node,b)A Pointer and a reference,c)Direction and a pointer,d)Data and a pointer

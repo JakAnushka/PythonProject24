@@ -1,0 +1,7 @@
+What is the full form of DBMS?,a) Data of Binary Management System,b) Database Management System,c) Database Management Service,d) Data Backup Management System
+What is DBMS?,a) DBMS is a collection of queries,b) DBMS is a high-level language,c) DBMS is a programming language,d) DBMS stores, modifies and retrieves data
+Who created the first DBMS?,a) Edgar Frank Codd,b) Charles Bachman,c) Charles Babbage,d) Sharon B. Codd
+Which type of data can be stored in the database?,a) Image oriented data,b) Text, files containing data,c) Data in the form of audio or video,d) All of the above
+In which of the following formats data is stored in the database management system?,a) Image,b) Text,c) Table,d) Graph
+Which of the following is not a type of database?,a) Hierarchical,b) Network,c) Distributed,d) Decentralized
+Which of the following is not an example of DBMS?,a) MySQL,b) Microsoft Acess,c) IBM DB2,d) Google
